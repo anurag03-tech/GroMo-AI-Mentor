@@ -7,8 +7,8 @@ Android application for GroMo AI Copilot, built with Kotlin and Jetpack Compose.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/gromo-ai-copilot.git
-   cd gromo-ai-copilot/Frontend
+   git clone https://https://github.com/anurag03-tech/GroMo-AI-Mentor.git
+   cd GroMo-AI-Mentor/Frontend
    ```
 
 2. Open the project in Android Studio:
@@ -38,7 +38,6 @@ Android application for GroMo AI Copilot, built with Kotlin and Jetpack Compose.
 
 ## Features
 
-- Modern UI with Jetpack Compose
 - Integration with Gemini AI
 - WhatsApp message analysis
 - Customer interaction management
@@ -66,5 +65,5 @@ Android application for GroMo AI Copilot, built with Kotlin and Jetpack Compose.
 
 - Jetpack Compose for UI
 - Retrofit for network calls
-- Gemini AI SDK
+- Gemini API key
 - Coroutines for async operations
