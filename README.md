@@ -1,6 +1,8 @@
 # GroMo AI Mentor
 
-GroMo AI Mentor is an AI-powered assistant designed to help GroMo Partners (GPs) improve their sales performance. It supports them in real-time during WhatsApp chats, suggests better replies to handle customer objections, and analyzes their past chats and call recordings to give personalized feedback
+GroMo AI Mentor is an AI-powered assistant designed to help GroMo Partners (GPs) improve their sales performance. It supports them in real-time during WhatsApp chats, suggests better replies to handle customer objections, and analyzes their past chats and call recordings to give personalized feedback.
+
+![Untitled wewe_page-0001](https://github.com/user-attachments/assets/b1b66068-e532-42a6-acdd-fc0df1a79876)
 
 ## Features
 
