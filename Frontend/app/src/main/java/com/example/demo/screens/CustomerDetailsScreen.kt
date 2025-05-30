@@ -281,6 +281,15 @@ fun CustomerDetailsScreen(
             }
                 
             Spacer(modifier = Modifier.height(16.dp))
+            
+            // Analysis Heading
+            Text(
+                text = "Analyze Performance",
+                style = MaterialTheme.typography.titleMedium,
+                fontWeight = FontWeight.Bold,
+                color = Color(0xFF1F2937),
+                modifier = Modifier.padding(horizontal = 8.dp, vertical = 8.dp)
+            )
                 
             // Analyze button with enhanced status
             Button(
