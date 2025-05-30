@@ -1,13 +1,13 @@
 # GroMo AI Mentor Backend
 
-This is the backend server for the GroMo AI Mentor application, built with Node.js and Express.
+Backend server for the GroMo AI Mentor application, built with Node.js and Express.
 
-## Local Setup
+## Setup
 
-1. Clone the repository:
+1. Clone and navigate to the backend directory:
 
    ```bash
-   git clone https://https://github.com/anurag03-tech/GroMo-AI-Mentor.git
+   git clone https://github.com/anurag03-tech/GroMo-AI-Mentor.git
    cd GroMo-AI-Mentor/Backend
    ```
 
@@ -17,7 +17,7 @@ This is the backend server for the GroMo AI Mentor application, built with Node.
    npm install
    ```
 
-3. Create a `.env` file in the root directory and add your environment variables:
+3. Create `.env` file with required variables:
 
    ```
    PORT=5000
@@ -25,57 +25,14 @@ This is the backend server for the GroMo AI Mentor application, built with Node.
    JWT_SECRET=your_jwt_secret
    ```
 
-4. Start MongoDB:
+4. Start MongoDB (local or Atlas)
 
-   - Make sure MongoDB is installed and running on your system
-   - Or use MongoDB Atlas (cloud version)
-
-5. Start the development server:
+5. Start the server:
 
    ```bash
-   # Development mode with auto-reload
+   # Development mode
    npm run dev
 
    # Production mode
    npm start
    ```
-
-6. The server will be running at `http://localhost:5000`
-
-## API Endpoints
-
-- `/api/auth` - Authentication routes
-- `/api/users` - User management routes
-- `/api/chats` - Chat functionality routes
-
-## Environment Variables
-
-Required environment variables in `.env`:
-
-```
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/gromo
-JWT_SECRET=your_secret_key
-```
-
-## Security
-
-- All sensitive data is stored in environment variables
-- JWT is used for authentication
-- CORS is enabled for frontend communication
-
-## Development
-
-```bash
-# Install dependencies
-npm install
-
-# Run in development mode
-npm run dev
-
-# Run in production mode
-npm start
-
-# Run tests
-npm test
-```
