@@ -1,14 +1,14 @@
-# GroMo AI Copilot Backend
+# GroMo AI Mentor Backend
 
-This is the backend server for the GroMo AI Copilot application, built with Node.js and Express.
+This is the backend server for the GroMo AI Mentor application, built with Node.js and Express.
 
 ## Local Setup
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/gromo-ai-copilot.git
-   cd gromo-ai-copilot/Backend
+   git clone https://https://github.com/anurag03-tech/GroMo-AI-Mentor.git
+   cd GroMo-AI-Mentor/Backend
    ```
 
 2. Install dependencies:
