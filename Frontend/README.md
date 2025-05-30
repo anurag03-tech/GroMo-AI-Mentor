@@ -1,6 +1,6 @@
-# GroMo AI Copilot Frontend
+# GroMo AI Mentor Frontend
 
-Android application for GroMo AI Copilot, built with Kotlin and Jetpack Compose.
+Android application for GroMo AI Mentor, built with Kotlin and Jetpack Compose.
 
 ## Local Setup
 
