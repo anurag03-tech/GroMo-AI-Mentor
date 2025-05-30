@@ -1,23 +1,32 @@
 # GroMo AI Mentor
 
-GroMo AI Mentor is an AI-powered assistant designed to help GroMo Partners (GPs) improve their sales performance. It supports them in real-time during WhatsApp chats, suggests better replies to handle customer objections, and analyzes their past chats and call recordings to give personalized feedback.
+An AI-powered assistant designed to help GroMo Partners (GPs) improve their sales performance. It provides real-time support during WhatsApp chats, suggests better replies to handle customer objections, and analyzes past conversations and call recordings to deliver personalized feedback.
 
-![Untitled wewe_page-0001](https://github.com/user-attachments/assets/b1b66068-e532-42a6-acdd-fc0df1a79876)
+![GroMo AI Mentor Demo](https://github.com/user-attachments/assets/b1b66068-e532-42a6-acdd-fc0df1a79876)
+
+## 📋 Project Resources
+
+| Resource            | Description                                        | Link                                                                                             |
+| ------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 📊 **Ideation PPT** | Complete project presentation and concept overview | [View Presentation](https://drive.google.com/file/d/1G43za8HC5fNapsXOygYPtF7mGM7qZ0dX/view)      |
+| 📱 **App Demo**     | Live demonstration of the application features     | [Watch Demo](https://drive.google.com/file/d/1XUMvxhC-QP2-ZG9PzD6Hl231rOjDiA0m/view?usp=sharing) |
 
 ## Features
 
-- GroMo AI Copilot – A real-time WhatsApp chat assistant that suggests or improve replies during sales chats.
+**🤖 GroMo AI Copilot**  
+Real-time WhatsApp chat assistant that suggests and improves replies during sales conversations, helping agents handle customer objections more effectively.
 
-- Performance Analysis – Uses WhatsApp chats and upload call recordings to analyze agent performance.
+**📈 Performance Analysis**  
+Comprehensive analysis using WhatsApp chat history and uploaded call recordings to provide personalized feedback and identify improvement opportunities.
 
 ## Technology Stack
 
-### Frontend
+**Frontend**
 
 - Kotlin
 - Jetpack Compose
 
-### Backend
+**Backend**
 
 - Node.js
 - Express.js
@@ -25,33 +34,34 @@ GroMo AI Mentor is an AI-powered assistant designed to help GroMo Partners (GPs)
 
 ## Quick Start
 
-1. Clone the repository:
+### 1. Clone the repository
 
-   ```bash
-   git clone https://github.com/anurag03-tech/GroMo-AI-Mentor.git
-   cd GroMo-AI-Mentor
-   ```
+```bash
+git clone https://github.com/anurag03-tech/GroMo-AI-Mentor.git
+cd GroMo-AI-Mentor
+```
 
-2. Set up the Backend:
+### 2. Set up the Backend
 
-   ```bash
-   cd Backend
-   npm install
-   # Create .env file with required variables
-   npm run dev
-   ```
+```bash
+cd Backend
+npm install
+# Create .env file with required variables
+npm run dev
+```
 
-3. Set up the Frontend:
-   ```bash
-   cd Frontend
-   # Open in Android Studio
-   # Create local.properties with required variables
-   # Build and run the application
-   ```
+### 3. Set up the Frontend
+
+```bash
+cd Frontend
+# Open in Android Studio
+# Create local.properties with required variables
+# Build and run the application
+```
 
 ## Detailed Setup
 
-For detailed setup instructions, refer to the individual README files:
+For comprehensive setup instructions, refer to the individual README files:
 
 - [Frontend Setup](Frontend/README.md)
 - [Backend Setup](Backend/README.md)
