@@ -36,18 +36,6 @@ Android application for GroMo AI Mentor, built with Kotlin and Jetpack Compose.
 
 5. Start the Backend server first (see Backend README)
 
-## Features
-
-- Integration with Gemini AI
-- WhatsApp message analysis
-- Customer interaction management
-
-## Security
-
-- API keys are stored in `local.properties`
-- Sensitive data is not committed to version control
-- Secure communication with backend
-
 ## Building
 
 ```bash
